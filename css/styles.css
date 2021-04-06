@@ -5,7 +5,6 @@ body {
 
 h1 {
   font-family: 'Anton', sans-serif;
-  font-weight: bolder;
   font-size: 4.5rem;
   color: white;
   line-height: 1.5;
@@ -54,7 +53,7 @@ form {
   font-family: 'Ubuntu', sans-serif;
   font-weight: bolder;
   font-size: 1.5rem;
-  color: #ffffff80;
+  color: #f2f5f4;
   line-height: 1.5;
   margin: auto;
   margin-bottom: 90px;
@@ -71,7 +70,7 @@ form {
 }
 
 .key-words {
-  color: #ff4c68;
+  color: #ff8938;
   font-weight: bold;
 }
 
@@ -106,7 +105,6 @@ form {
 
 .nav-link:hover {
   font-size: 1.2rem;
-  color: white;
   text-decoration: underline;
 }
 
@@ -120,17 +118,17 @@ form {
 }
 
 .awards-icon {
-  color: #ff4c68;
+  color: #ff8938;
   margin-bottom: 1rem;
 }
 
 .awards-icon:hover {
-  color: #db005f;
+  color: #ff6700;
   margin-bottom: 1rem;
 }
 
 .bottom-container {
-  background-color: #ff4c68;
+  background-color: #ff8938;
   position: static;
   padding-bottom: 9px;
   padding-top: 24px;
@@ -189,20 +187,20 @@ form {
 }
 
 .btn-send {
-  background-color: #ff4c68;
+  background-color: #ff8938;
   color: white;
   border: none;
   width: 9%;
 }
 
 .btn-send:hover {
-  background-color: #db005f;
+  background-color: #ff6700;
   color: white;
   border: none;
 }
 
 #title {
-  background-color: #ff4c68;
+  background-color: #ff8938;
 }
 
 #features {
@@ -237,7 +235,7 @@ form {
   }
 
   .btn-send {
-    background-color: #ff4c68;
+    background-color: #ff8938;
     color: white;
     border: none;
     width: 100%;
