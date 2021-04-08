@@ -26,6 +26,12 @@ p {
   text-align: center;
 }
 
+hr {
+  color: #9db4c7;
+  width: 21%;
+  margin-top: 32px;
+}
+
 /* unvisited link */
 a:link {
   color: white;
@@ -110,6 +116,10 @@ form {
 
 .photo-title-carousel {
   width: 100%;
+}
+
+.row{
+  padding-top: 4%;
 }
 
 .feature-box {
@@ -201,10 +211,27 @@ form {
 
 #title {
   background-color: #ff8938;
+  padding-bottom: 4%;
+}
+
+#about {
+  padding: 6% 15% 10% 15%;
+}
+
+.about-title {
+  color: #ff8938;
+  text-align: right;
+  padding-top: 0%;
+}
+
+.about-text {
+  color: #000;
+  text-align: justify;
+  
 }
 
 #features {
-  padding: 7% 15% 3% 15%;
+  padding: 3% 15% 3% 12%;
 }
 
 #copyright {
