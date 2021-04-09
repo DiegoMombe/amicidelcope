@@ -284,5 +284,10 @@ form {
     padding-right: 15%;
   }
 
+  .carousel-inner{
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
 
 }
