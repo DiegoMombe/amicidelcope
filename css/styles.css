@@ -276,9 +276,10 @@ form {
     padding-right: 0%;
   }
 
-  .col-lg-6 {
-    padding-left: 5%;
-    padding-right: 5%;
+  .col-img {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
   }
 
 }
